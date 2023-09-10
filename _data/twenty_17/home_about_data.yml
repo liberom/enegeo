@@ -1,35 +1,35 @@
-- inverted: 
+- inverted:
   img: icon-about.jpeg
-  name: Theme, Vision, Mission
-  info: Read more about our Theme, Vision, and Mission
-  link: /about
+  name: Tema, Visão, Missão
+  info: Leia mais sobre nossos tema, visão e missão
+  link: /sobre
 
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
   name: Agenda
-  info: Check out the agenda
+  info: Verifique nossa agenda
   link: /agenda
 
-- inverted: 
+- inverted:
   img: icon-team.jpeg
-  name: Team
-  info: Find out the team members
-  link: /team
+  name: Equipe
+  info: Saiba mais sobre a equipe organizadora
+  link: /equipe
 
 - inverted: timeline-inverted
   img: icon-venue.jpeg
-  name: Venue
-  info: Learn more about our location
-  link: /venue
+  name: Local
+  info: Saiba mais sobre a localização do evento
+  link: /local
 
-- inverted: 
+- inverted:
   img: icon-faq.jpeg
   name: FAQs
-  info: Have a Question? Many answers can be found right here in our FAQs
+  info: Tem alguma pergunta? Muitas respostas podem ser encontradas na nossa FAQ
   link: /faqs
 
 - inverted: timeline-inverted
   img: booklet-icon.png
-  name: Event Booklet
-  info: View or Download our event booklet
-  link: /booklet
+  name: Brochura do evento
+  info: Veja ou baixe a brochura do evento
+  link: /brochura

@@ -1,26 +1,26 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
+- title: Empresa 1
+  name: Fulano
+  subtitle: Gerente de exploração
   img: TBD.jpg
   thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  alt: Foto de Fulano
+  topic: Pesquisa mineral
+  description: Mais informações
 
-- title: Name
-  name: Name-2
-  subtitle: Position
+- title: UFX
+  name: Ciclano
+  subtitle: Professor adjunto
   img: TBD.jpg
   thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  alt: Foto de Ciclano
+  topic: Rochas metamórficas
+  description: Mais informações
 
-- title: Name
-  name: Name-3
-  subtitle: Position
+- title: UFY
+  name: Beltrano
+  subtitle: Professor titular
   img: TBD.jpg
   thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  alt: Foto de Beltrano
+  topic: Sedimentologia
+  description: Mais informações
